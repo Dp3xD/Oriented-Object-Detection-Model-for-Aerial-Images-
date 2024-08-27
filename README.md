@@ -1,4 +1,4 @@
-# Oriented-Object-Detection-Model-for-Aerial-Images-
+# Oriented Object Detection Model for Aerial Images
 Repository for Computer Vision project - 2024
 
 – Objective: Developed a model for oriented object detection in aerial images to accurately predict object bounding boxes with arbitrary orientations.
